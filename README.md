@@ -1,1 +1,1 @@
-# https://github.com/Art0riasss/Resource.git
+# https://www.figma.com/file/Xqw5wAFQBEoqZAw69ApbZQ/Untitled?node-id=0%3A18&mode=dev
