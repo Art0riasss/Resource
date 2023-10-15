@@ -1,1 +1,1 @@
-# Resource
+# https://github.com/Art0riasss/Resource.git
