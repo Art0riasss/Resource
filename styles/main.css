@@ -30,7 +30,6 @@ line-height: 65px;
 }
 .header_text span{
     color: #2BCA8B;
-    text-decoration: underline;
 }
 .lower_text_in_header{
 color: #444;
@@ -68,7 +67,6 @@ line-height: 39px;
 }
 .under_header_links{
 color: #252061;
-font-family: Poppins;
 font-size: 15px;
 font-style: normal;
 font-weight: 400;
@@ -92,6 +90,84 @@ font-style: normal;
 font-weight: 400;
 line-height: 23px;
 }
+.meet_button{
+color: #FFF;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+}
 .back_vector{
     background-color: #252061;
+}
+.second_section_header{
+color: #444;
+font-size: 52px;
+font-style: normal;
+font-weight: 400;
+line-height: 49px;
+}
+.second_section_header span{
+color: #F55F39;
+line-height: 43px
+}
+.article_header_first{
+color: #252061;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: 38px;
+}
+.under_header_article_text{
+color: #969696;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+}
+.person_name{
+color: #252061;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+}
+.person_name span{
+font-size: 13px;
+}
+.photo_date{
+color: #929292;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px;
+}
+.article_header_second{
+color: #252061;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+}
+.article_header_third{
+color: #FFF;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.under_third_article_text{
+color: #FFF;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+}
+.visit_blog_link{
+color: #F55F39;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;  
 }
