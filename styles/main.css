@@ -256,3 +256,111 @@ font-style: normal;
 font-weight: 400;
 line-height: 19px;
 }
+.instan_access{
+color: #FFF;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+}
+.under_instant_access_text{
+color: #FFF;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: 21px;
+}
+.learn_more{
+color: rgba(255, 255, 255, 0.80);
+text-align: center;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+}
+.fifth_section_header{
+color: #444;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.fifth_section_header span{
+color: #2BCA8B;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.under_header{
+color: #524B9A;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px;
+}
+.fifth_section_text{
+color: #050505;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+}
+.person_name2{
+color: #524B9A;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+}
+.more_stories_button{
+color: #FFF;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+}
+.what_kind_photographer{
+color: #444;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.what_kind_photographer span{
+color: #2BCA8B;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.photographer_kinds h4{
+color: #524B9A;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px;
+}
+.photographer_kinds p{
+color: #363636;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+}
+.photographer_kinds a{
+color: #4163AC;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+text-decoration: none;
+}
+.visit_center_link{
+text-decoration: none;
+color: #F55F39;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+}
