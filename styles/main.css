@@ -171,3 +171,31 @@ font-style: normal;
 font-weight: 400;
 line-height: 23px;  
 }
+.third_section_header{
+color: #FFF;
+font-size: 44px;
+font-style: normal;
+font-weight: 400;
+line-height: 60px;
+}
+.under_third_header_text{
+color: #FFF;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+}
+.button_text{
+ color: #FFF;
+font-size: 23px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px
+}
+.button_text span{
+color: #FFF;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+}
