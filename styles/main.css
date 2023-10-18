@@ -199,3 +199,60 @@ font-style: normal;
 font-weight: 400;
 line-height: 23px;
 }
+.fourth_section_header{
+color: #FFF;
+text-align: center;
+font-size: 52px;
+font-style: normal;
+font-weight: 400;
+line-height: 49px;
+}
+.article_upper_text{
+color: #183EB6;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+}
+.article_upper_text_green{
+color: #2BCA8B;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+}
+.price_tag{
+color: #000;
+font-size: 55px;
+font-style: normal;
+font-weight: 400;
+line-height: 34px;
+}
+.price_tag span{
+color: #000;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 34px;
+}
+.article_access_info{
+color: #000;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px;    
+}
+.buy_now_button{
+color: #FFF;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+}
+.under_article_text{
+color: #9DA0AC;
+font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+}
