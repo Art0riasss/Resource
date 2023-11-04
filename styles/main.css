@@ -1,9 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     font-family: 'Poppins', sans-serif;
 }
 
 li{
     list-style: none;
+}
+::placeholder{
+    font-family: 'Poppins', sans-serif;
 }
 .nav_words a{
 color: #222;
@@ -320,4 +327,56 @@ line-height: 25px;
 }
 .footer_copyright span{
     color: #F55F39;
+}
+.nav_bar{
+    display: flex;
+    height: 80px;
+    justify-content: space-between;
+}
+.top_header{
+    display: inline inline-block;
+    background-color: #FFF;
+    padding:0 105px;
+}
+.nav_words{
+    height: 80px;
+    width: 525px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+}
+.search_menu{
+    display: flex;
+}
+.search_menu img{
+margin-top: 20px;
+height: 40px;
+width: 250px;
+}
+.search_menu input{
+    margin-top: 20px;
+    height: 38px;
+    width: 200px;
+    border: none;
+    outline: none;
+    position: relative;
+    right: 201px;
+    bottom: -1px;
+}
+.search_menu button{
+    color: #E0E0E0;
+    font-size: 14px;
+    line-height: 21px;
+    background-color: #B8BDC9;
+    width: 140px;
+    height: 40px;
+    margin-top: 20px;
+    border: none;
+    position: absolute;
+    right: 165px;
+}
+ .search_button:active{
+    background-color: #F55F39;
 }
