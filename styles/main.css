@@ -894,6 +894,9 @@ display: flex;
     font-weight: 400;
     line-height: 21px; 
 }
+.search_bar button:active{
+    background-color: #F55F39;
+}
 .search_bar{
     display: flex;
     margin-top: 50px;
@@ -1001,6 +1004,9 @@ a{
 .footer_bar li{
     margin-left: 20px;
     margin-top: 5px;
+}
+.footer_bar li a:hover{
+    color: #FFF;
 }
 .copyright{
     width: 940px;
