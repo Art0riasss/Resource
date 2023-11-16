@@ -911,8 +911,10 @@ display: flex;
 .resource_plan{
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     width: 300px;
     border: 3px solid #E6E8EE;
+    box-sizing: border-box;
     background: #FFF;   
 }
 .resource_plan div{
@@ -927,4 +929,91 @@ display: flex;
 a{
     text-decoration: none;
 }
+.view_all{
+    height: 55px;
+    background: #EEF1F6;
+    display: flex;
+    align-items: center;
+}
+.view_all span{
+    margin-left: 30px;
+}
+.kit_list{
+    height: 215px;
+    display: flex;
+    flex-direction: column;
+}
+.kit_list img{
+    margin-right: 10px;
+}
+.kit_list span{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.kit_list h3{
+    margin: 30px 0px 15px 30px;
+}
+.over_footer{
+    margin-bottom: 100px;
+}
+.footer_vector{
+    height: 485px;
+    width: 100%;
+    background-color: #1C1842;
+    position: absolute;
+    z-index: -1;
+}
+.footer_list{
+    width: 940px;
+    height: 275px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 230px;
+}
+.welcome{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 300px;
+    height: 140px;  
+}
+.welcome div{
+    height: 40px;
+}
+.footer_text{
+    height: 75px;
+}
+.footer_bar{
+    height: 140px;
+    width: 190px;
+    display: flex;
+    flex-direction: column;
+}
+.footer_bars{
+    display: flex;
+    height: 140px;
+}
+.footer_bar h3{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.footer_bar li{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.copyright{
+    width: 940px;
+    height: 85px;
+    display: flex;
+    align-items: center;
+    margin: 0px auto;
+}
+.studio{
+    margin-right: 10px;
+}
+.webflow{
+    margin-right: 10px;
+}
+
 
